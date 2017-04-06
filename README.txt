@@ -33,5 +33,8 @@ for (int i = 0; i < heightFirst; i++) {
 			} else {
 	  			newImage.setRGB(j, i, imageFirst.getRGB(j, i));
 			}
+		}
+	}
+}
           
 </code>
